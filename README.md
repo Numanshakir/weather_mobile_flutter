@@ -8,8 +8,8 @@
 <img src="https://github.com/Numanshakir/weather_mobile_flutter/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202023-12-16%20at%2016.35.24.png?raw=true" width="20%"></img>  -->
 
 <img src="https://github.com/Numanshakir/weather_mobile_flutter/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202023-12-16%20at%2016.35.35.png?raw=true" width="20%"></img> 
-
-<img src="https://github.com/Numanshakir/weather_mobile_flutter/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202023-12-16%20at%2016.40.00.png?raw=true" width="20%"></img> 
+<!-- 
+<img src="https://github.com/Numanshakir/weather_mobile_flutter/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202023-12-16%20at%2016.40.00.png?raw=true" width="20%"></img>  -->
 
 <img src="https://github.com/Numanshakir/weather_mobile_flutter/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202023-12-16%20at%2016.40.08.png?raw=true" width="20%"></img> 
 </p> 
