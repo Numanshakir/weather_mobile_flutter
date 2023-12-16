@@ -12,6 +12,8 @@
 
 A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) and using API from [OpenWeatherMap](https://openweathermap.org/)
 
+  Weather App [Documentation](https://docs.google.com/document/d/1wexNNI7kxKzETjC67PmTzqNcl66hJXso3D_bhSqp_h8/edit?usp=sharing).
+
 ## Features
 - Automatically acquire user current location by using geolocator
 - Search weather by city name
