@@ -126,6 +126,7 @@ class _HomeViewState extends State<HomeView> {
                                                     title: double.parse(homeVM.weatherNow.main.temp.toString())
                                                         .toStringAsFixed(0),
                                                     
+                                                                                       
                                                     color: AppColor.darkText,
                                                     size: 100,
                                                     fontWeight:
