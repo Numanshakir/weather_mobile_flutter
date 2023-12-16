@@ -1,4 +1,4 @@
-<h1 align="center">FlutterWeather</h1>
+<h1 align="center">Weather App Flutter</h1>
 <h2 align="center">Updated to Flutter 3.16.1</h2>
 
 
